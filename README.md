@@ -41,7 +41,7 @@ python mkv_srt_file_name_matcher.py
 
 ## License
 
-This project is not licensed and is provided as-is, without any warranty. You are free to use, modify, and distribute the code for personal use. However, please note that without a license, others may not have clear permission to use or modify your code. Consider adding an appropriate license to provide clear guidelines for the usage and distribution of your project.
+This project is not licensed and is provided as-is, without any warranty. You are free to use, modify, and distribute the code for personal use.
 
 ## Contributing
 
