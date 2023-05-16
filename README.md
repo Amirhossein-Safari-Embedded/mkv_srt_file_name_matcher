@@ -8,7 +8,7 @@ The MKV-SRT File Name Matcher is a Python program designed to simplify the task 
 
 If you prefer not to run commands manually, a standalone executable version of the program is available. Follow these steps to use the executable:
 
-1. Download the latest release from the [Releases](https://github.com/Amirhossein-Safari-Embedded/mkv_srt_file_name_matcher/releases) page.
+1. Download the latest release from the [Releases](https://github.com/AmirhosseinSafari-Embedded/mkv_srt_file_name_matcher/releases) page.
 
 2. Extract the contents of the ZIP file to a folder of your choice.
 
@@ -45,7 +45,7 @@ This project is not licensed and is provided as-is, without any warranty. You ar
 
 ## Contributing
 
-Contributions to the MKV-SRT File Name Matcher are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/Amirhossein-Safari-Embedded/mkv_srt_file_name_matcher/issues) or submit a pull request.
+Contributions to the MKV-SRT File Name Matcher are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/AmirhosseinSafari-Embedded/mkv_srt_file_name_matcher/issues) or submit a pull request.
 
 ## Acknowledgments
 
